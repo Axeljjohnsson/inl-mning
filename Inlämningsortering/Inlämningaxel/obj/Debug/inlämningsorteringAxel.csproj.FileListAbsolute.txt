@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Sorting-Algorithms-master\SortingAlgorithms\InfogandeSortering\bin\Debug\InfogandeSortering.exe.config
+C:\Users\Admin\Desktop\Sorting-Algorithms-master\SortingAlgorithms\InfogandeSortering\bin\Debug\InfogandeSortering.exe
+C:\Users\Admin\Desktop\Sorting-Algorithms-master\SortingAlgorithms\InfogandeSortering\bin\Debug\InfogandeSortering.pdb
+C:\Users\Admin\Desktop\Sorting-Algorithms-master\SortingAlgorithms\InfogandeSortering\obj\Debug\inlämningsorteringAxel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Sorting-Algorithms-master\SortingAlgorithms\InfogandeSortering\obj\Debug\InfogandeSortering.exe
+C:\Users\Admin\Desktop\Sorting-Algorithms-master\SortingAlgorithms\InfogandeSortering\obj\Debug\InfogandeSortering.pdb
+C:\Users\Admin\Desktop\Sorting-Algorithms-master\SortingAlgorithms\InfogandeSortering\obj\Debug\inlämningsorteringAxel.csprojAssemblyReference.cache
