@@ -1,0 +1,14 @@
+D:\GitHub\Sorting-Algorithms\SortingAlgorithms\InfogandeSortering\bin\Debug\InfogandeSortering.exe.config
+D:\GitHub\Sorting-Algorithms\SortingAlgorithms\InfogandeSortering\bin\Debug\InfogandeSortering.exe
+D:\GitHub\Sorting-Algorithms\SortingAlgorithms\InfogandeSortering\bin\Debug\InfogandeSortering.pdb
+D:\GitHub\Sorting-Algorithms\SortingAlgorithms\InfogandeSortering\obj\Debug\InfogandeSortering.csprojAssemblyReference.cache
+D:\GitHub\Sorting-Algorithms\SortingAlgorithms\InfogandeSortering\obj\Debug\InfogandeSortering.csproj.CoreCompileInputs.cache
+D:\GitHub\Sorting-Algorithms\SortingAlgorithms\InfogandeSortering\obj\Debug\InfogandeSortering.exe
+D:\GitHub\Sorting-Algorithms\SortingAlgorithms\InfogandeSortering\obj\Debug\InfogandeSortering.pdb
+C:\Users\Admin\Desktop\Sorting-Algorithms-master\SortingAlgorithms\InfogandeSortering\bin\Debug\InfogandeSortering.exe.config
+C:\Users\Admin\Desktop\Sorting-Algorithms-master\SortingAlgorithms\InfogandeSortering\bin\Debug\InfogandeSortering.exe
+C:\Users\Admin\Desktop\Sorting-Algorithms-master\SortingAlgorithms\InfogandeSortering\bin\Debug\InfogandeSortering.pdb
+C:\Users\Admin\Desktop\Sorting-Algorithms-master\SortingAlgorithms\InfogandeSortering\obj\Debug\InfogandeSortering.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Sorting-Algorithms-master\SortingAlgorithms\InfogandeSortering\obj\Debug\InfogandeSortering.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Sorting-Algorithms-master\SortingAlgorithms\InfogandeSortering\obj\Debug\InfogandeSortering.exe
+C:\Users\Admin\Desktop\Sorting-Algorithms-master\SortingAlgorithms\InfogandeSortering\obj\Debug\InfogandeSortering.pdb
